@@ -19,9 +19,6 @@ fragment DiscountApplicationFragment on DiscountApplication {
     code
     applicable
   }
-  ... on ScriptDiscountApplication {
-    description
-  }
   ... on AutomaticDiscountApplication {
     title
   }

@@ -1,7 +1,6 @@
 export default {
   "data": {
     "shop": {
-      "currencyCode": "CAD",
       "description": "pls send me cats",
       "moneyFormat": "${{amount}}",
       "name": "sendmecats",

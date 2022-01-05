@@ -37,27 +37,7 @@ export default {
                                  "name":"Size",
                                  "value":"8"
                               }
-                           ],
-                           "presentmentPrices": {
-                              "pageInfo": {
-                                "hasNextPage": false,
-                                "hasPreviousPage": false
-                              },
-                              "edges": [
-                                {
-                                  "node": {
-                                    "price": {
-                                      "amount": "188.00",
-                                      "currencyCode": "USD"
-                                    },
-                                    "compareAtPrice": {
-                                      "amount": "190.00",
-                                      "currencyCode": "USD"
-                                    }
-                                  }
-                                }
-                              ]
-                            }
+                           ]
                         },
                         "quantity":2,
                         "customAttributes":[
